@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjKXKDj3/5c118e6f7fcc2a5bc165ad77e6cdd74a-5e946fef3c886.jpg" group-title="BANGLA", ETV
+https://http://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjJ2SDjn/T-Sports.png" group-title="sports", t sports
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysJeU_Kfrj0qwmM7vuG_g3JR7dboiW2Uy1VHIXEk1SA&s" group-title="kolkata", sony aath
+https://bdixtv24.site/toffee/live.php?id=sonyaath&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRn1PuPFxPEwJ8hsZCFAnzmtkE9wILtPDnmcVncwvZghX5S2zwB4id98&s" group-title="hindi channel", B4U MOVIE
+https://bdixtv24.site/toffee/live.php?id=b4u_movies&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFLCrrZb/tnt-sports-logo-preview.jpg" group-title="sports", TNT SPORTS 1
+https://fredflix.fun/chd1/m3u8.php?c=bbtsp1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZPtrzZV/star-gold-logo-D1-A2937-F35-seeklogo-com.png" group-title="hindi channel", star gold
+https://criccoder.pages.dev/astro.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
